@@ -1,0 +1,9 @@
+function isBalanced() {
+    
+    let pairs = {
+        "}" : "{",
+        "]" : "[",
+        ">" : "<",
+        ")" : "("
+    }
+}
